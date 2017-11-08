@@ -1,3 +1,3 @@
 # LZ77Compressor
-<b>LZ77 Compressor implemented in Java</b>
+<b><q>LZ77 Compressor implemented in Java</q></b> </br>
 Grade was 10/10 + 3 grades <b>Bonus</b>
